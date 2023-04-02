@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Serhii Karpenko
 - 👀 I’m interested in game development 
 - 🌱 I’m currently learning unity and c#
-- 📫 How to reach me -> https://www.linkedin.com/in/serhii-karpenko-/
+- 📫 How to reach me -> Click on the LinkedIn text =)
 
 ### Kindly be advised that the educational projects provided are not meant for commercial purposes or for market penetration. In the event that a project is identified as educational, it is improbable that it will incorporate optimization, design patterns, or comparable features.
 
