@@ -5,6 +5,8 @@
 
 ### Kindly be advised that the educational projects provided are not meant for commercial purposes or for market penetration. In the event that a project is identified as educational, it is improbable that it will incorporate optimization, design patterns, or comparable features.
 
+# [My itch.io](https://stdd.itch.io/)
+
 <!---
 SerhiiKarpenko/SerhiiKarpenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
